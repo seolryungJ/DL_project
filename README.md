@@ -40,6 +40,7 @@
     |image_id|이미지 ID|
     |question|이미지 관련 질문|
     |answer|질문에 대한 정답|
+    
   - 데이터 예시
 
     <img width="611" alt="image" src="https://github.com/seolryungJ/DL_project/assets/131641261/98e49ed7-17aa-4cd7-befc-c2c9b56a6efa">
